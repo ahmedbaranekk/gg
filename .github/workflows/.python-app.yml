@@ -21,4 +21,4 @@ jobs:
 
     - name: Run task 3.py
       run: |
-        python task 3.py
+        Run task 3.py
